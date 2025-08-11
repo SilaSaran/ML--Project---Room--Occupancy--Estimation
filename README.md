@@ -1,4 +1,4 @@
-# ML_Project: Room Occupancy Estimation
+# ML_Project:
 
 # 🏠 Room Occupancy Estimation Using Environmental Sensors
 
