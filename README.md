@@ -58,7 +58,7 @@ Used `GridSearchCV` to optimize Gradient Boosting parameters:
 ---
 
 ## 📏 Evaluation Metrics
-- **F1 Score** (primary metric due to class imbalance)
+- **F1 Score** and **Accuaracy Score**
 - Confusion Matrix
 - Classification Report
 - Feature Importance Analysis
