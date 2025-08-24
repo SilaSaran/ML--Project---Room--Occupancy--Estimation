@@ -66,6 +66,7 @@ Used `GridSearchCV` to optimize Gradient Boosting parameters:
 ---
 
 🧠 Key Insights
+
 Gradient Boosting outperformed other models with highest accuracy and F1 score.
 
 Light and Sound sensors showed strong correlation with occupancy levels.
