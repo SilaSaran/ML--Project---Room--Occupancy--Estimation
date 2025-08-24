@@ -65,12 +65,16 @@ Used `GridSearchCV` to optimize Gradient Boosting parameters:
 
 ---
 
-## 🧠 Key Insights
-- CO₂ and sound sensors are strong predictors of occupancy
-- Time of day significantly affects occupancy patterns
-- Gradient Boosting outperformed other models after tuning
+🧠 Key Insights
+Gradient Boosting outperformed other models with highest accuracy and F1 score.
 
----
+Light and Sound sensors showed strong correlation with occupancy levels.
+
+Time of Day significantly influenced occupancy patterns, with afternoons showing higher average counts.
+
+No duplicate entries and minimal missing data ensured high data quality.
+
+Outlier treatment improved model stability and performance.
 
 ## 🚀 Future Work
 - Deploy model in real-time using edge devices or IoT platforms
